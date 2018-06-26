@@ -4,10 +4,18 @@
 
 ### Benefits:
  		
-  Easy Approval	  No Set Up Fee	   Near Real-Time Transaction Verification
-  No Hidden Fees	  Members Paid Weekly	   Five (5) Stages Fraud Protection Process
-  On Time Payout	  Fully Integrated Solution	    Exclusively done in house, no outsourcing
-  No Monthly Fee	  Recurring Payment Option	   Secure Customer Data Management
+  Easy Approval	
+  No Set Up Fee	
+  Near Real-Time Transaction Verification  
+  No Hidden Fees	
+  Members Paid Weekly	
+  Five (5) Stages Fraud Protection Process
+  On Time Payout	
+  Fully Integrated Solution	
+  Exclusively done in house, no outsourcing
+  No Monthly Fee	
+  Recurring Payment Option	
+  Secure Customer Data Management
 
 
 ### Integration Step:
